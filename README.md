@@ -11,6 +11,8 @@ A Text Summarizer AI project using LLaMA via Ollama, integrated with FastAPI for
 - Streamlit web frontend
 - Easy local setup
 
+![Frontend Screenshot](screenshot.png)
+
 ---
 
 ## Project Structure
